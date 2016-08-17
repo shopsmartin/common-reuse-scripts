@@ -1,5 +1,5 @@
 #!usr/bin/python3
-__author__ = 'martinschilling'
+__author__ = 'shopsmartin'
 
 """written to turn a csv file file of three values into a dictionary where
 one row is the key and another row is the list of values. This is specific for
